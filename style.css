@@ -1,0 +1,46 @@
+*
+{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background-image: url("e:\\image.png");
+  background-repeat: repeat-x;
+  background-position-x: center;
+  background-position-y: center;
+  background-attachment: fixed;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+div ,p {
+  background-color: burlywood;
+  border: 1px solid red;
+  height: 50px;
+}
+p {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+}
+.class2
+{
+  border-style: solid;
+  border-color: blue;
+  border-width: 20px;
+  border-radius: 30px;
+}
+h1{
+  color:coral;
+}
+.class1
+{
+background-color: darkgray;
+border: 2px double yellow;
+}
+
+#div1 
+{
+font-style: italic;
+font-weight: 700;
+font-family: fantasy;
+}
